@@ -1,0 +1,21 @@
+#Comedy, horror, and romance movies.
+#Test dataset.
+#Created by Chirag Kakad
+
+1361	Search for One-eye Jimmy, The (1996)	Comedy	
+41	Billy Madison (1995)	Comedy	
+42	Clerks (1994)	Comedy	
+1166	Love & Human Remains (1993)	Comedy	
+721	Mallrats (1995)	Comedy	
+
+276	Leaving Las Vegas (1995)	Romance	Drama	
+1297	Love Affair (1994)	Romance	Drama	
+478	Philadelphia Story, The (1940)	Romance	Comedy	
+724	Circle of Friends (1995)	Romance	Drama	
+268	Chasing Amy (1997)	Romance	Drama	
+
+559	Interview with the Vampire (1994)	Horror	Drama	
+567	Wes Craven's New Nightmare (1994)	Horror	
+563	Stephen King's The Langoliers (1995)	Horror	
+1625	Nightwatch (1997)	Horror	Thriller	
+565	Village of the Damned (1995)	Horror	Thriller	

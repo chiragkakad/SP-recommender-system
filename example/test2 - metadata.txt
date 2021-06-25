@@ -1,0 +1,16 @@
+#Sci-fi movies
+#Test dataset.
+#Created by Chirag Kakad
+
+450	Star Trek V: The Final Frontier (1989)	Sci-Fi	Adventure	Action	
+449	Star Trek: The Motion Picture (1979)	Sci-Fi	Adventure	Action	
+62	Stargate (1994)	Sci-Fi	Adventure	Action	
+230	Star Trek IV: The Voyage Home (1986)	Sci-Fi	Adventure	Action	
+222	Star Trek: First Contact (1996)	Sci-Fi	Adventure	Action	
+228	Star Trek: The Wrath of Khan (1982)	Sci-Fi	Adventure	Action	
+270	Gattaca (1997)	Sci-Fi	Drama	Thriller	
+1274	Robocop 3 (1993)	Sci-Fi	Thriller	
+82	Jurassic Park (1993)	Sci-Fi	Adventure	Action	
+665	Alien 3 (1992)	Sci-Fi	Horror	Action	Thriller	
+183	Alien (1979)	Sci-Fi	Horror	Action	Thriller	
+298	Face/Off (1997)	Sci-Fi	Action	Thriller	
